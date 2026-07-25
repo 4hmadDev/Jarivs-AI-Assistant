@@ -1,6 +1,6 @@
-# 🤖 MARK L – The Ultimate Cross-Platform Personal AI Assistant
+# 🤖 JARVIS – The Ultimate Cross-Platform Personal AI Assistant
 
-Recently explored **MARK L**, an advanced open-source AI assistant that showcases the power of modern AI, automation, and desktop integration.
+Recently explored **Jarvis**, an advanced open-source AI assistant that showcases the power of modern AI, automation, and desktop integration.
 
 ### Key Features
 
