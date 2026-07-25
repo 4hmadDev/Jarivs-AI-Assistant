@@ -28,4 +28,3 @@ A great project for anyone interested in:
 
 Exploring projects like this is a great way to learn about AI-powered applications, software architecture, and real-world automation systems.
 
-#Python #AI #Automation #OpenSource #GitHub #SoftwareDevelopment #MachineLearning #Tech
